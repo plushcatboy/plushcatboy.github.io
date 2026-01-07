@@ -1,4 +1,4 @@
 # plushcatboy.github.io
 
-Shiloh Terra Schwartz (PluSh or PLUSHCATBOY) is an indie game dev based in Colorado.
-
+I'm Shiloh Terra Schwartz (PluSh or PLUSHCATBOY) an indie game dev.
+This is my website.
